@@ -1,0 +1,708 @@
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+F:\Mpesa\Mpesa\STK\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Error in STK Push: Failed to connect to M-Pesa: HTTPSConnectionPool(host='sandbox.safaricom.co.ke', port=443): Max retries exceeded with url: /oauth/v1/generate?grant_type=client_credentials (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FA977047D0>: Failed to resolve 'sandbox.safaricom.co.ke' ([Errno 11001] getaddrinfo failed)"))
+Not Found: /robots.txt
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Error in STK Push: Failed to connect to M-Pesa: HTTPSConnectionPool(host='sandbox.safaricom.co.ke', port=443): Max retries exceeded with url: /oauth/v1/generate?grant_type=client_credentials (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FA97705950>: Failed to resolve 'sandbox.safaricom.co.ke' ([Errno 11001] getaddrinfo failed)"))
+Not Found: /robots.txt
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+F:\Mpesa\Mpesa\STK\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /robots.txt
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Not Found: /stk-status/
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /stk-status/
+Not Found: /robots.txt
+F:\Mpesa\Mpesa\STK\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Mpesa\Mpesa\STK\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Not Found: /robots.txt
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Not Found: /robots.txt
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+F:\Mpesa\Mpesa\STK\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Not Found: /robots.txt
+F:\Mpesa\Mpesa\STK\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Not Found: /robots.txt
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+F:\Mpesa\Mpesa\STK\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Not Found: /robots.txt
+Not Found: /robots.txt
+F:\Mpesa\Mpesa\STK\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Not Found: /robots.txt
+F:\Mpesa\Mpesa\STK\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Not Found: /robots.txt
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Not Found: /robots.txt
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Not Found: /robots.txt
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 500 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpushquery/v1/query HTTP/1.1" 200 None
+Not Found: /robots.txt
+Not Found: /robots.txt
+Not Found: /robots.txt
