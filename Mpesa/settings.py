@@ -21,6 +21,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'whitenoise.runserver_nonstatic'
     'jazzmin',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -34,6 +35,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware'
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -132,7 +134,7 @@ LOGGING = {
             'handlers': ['console', 'file'],
             'level': 'DEBUG',
         },
-        'your_app_name': {  # Replace with your actual app name
+        'STK': {  # Replace with your actual app name
             'handlers': ['console', 'file'],
             'level': 'DEBUG',
             'propagate': False,
